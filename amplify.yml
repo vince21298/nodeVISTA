@@ -3,4 +3,4 @@ backend:
   phases:
     build:
       commands:
-        - docker-compose up -d
+        - docker --version
